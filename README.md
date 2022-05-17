@@ -1,0 +1,2 @@
+# dockerdjango
+Trainning
